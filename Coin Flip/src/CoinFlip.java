@@ -7,6 +7,7 @@ public class CoinFlip {
 		greetUser();
 		flipCoin();
 		giveTotal();
+		//brilliant!
 	}
 	public static void greetUser()
 	{
